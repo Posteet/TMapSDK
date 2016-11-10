@@ -3,7 +3,7 @@ https://developers.skplanetx.com/develop/doc/sdk/tmap-sdk-ios/
 
 - Swift 일경우, Bridging-Header.h 에 아래 내용 추가.
 ```
-#import <TMapSDK/TMap.h>
+#import <TMapSDK/TMapView.h>
 ```
 
 - Podfile 사용 예
