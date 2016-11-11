@@ -1,4 +1,6 @@
 # TMapSDK
+### SK planet TMap SDK cocoa pods
+
 https://developers.skplanetx.com/develop/doc/sdk/tmap-sdk-ios/
 
 - Swift 일경우, Bridging-Header.h 에 아래 내용 추가.
