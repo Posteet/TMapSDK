@@ -1,5 +1,5 @@
 # TMapSDK
-### SK planet TMap SDK cocoa pods
+### SK planet TMap SDK Cocoapods
 
 https://developers.skplanetx.com/develop/doc/sdk/tmap-sdk-ios/
 
